@@ -1,0 +1,1 @@
+from c_constant import para,nb,sval,sto1,plr,start,com1,com2,com3
